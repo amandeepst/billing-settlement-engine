@@ -1,0 +1,1 @@
+ALTER TABLE pending_min_charge ADD currency CHAR(3) NOT NULL;

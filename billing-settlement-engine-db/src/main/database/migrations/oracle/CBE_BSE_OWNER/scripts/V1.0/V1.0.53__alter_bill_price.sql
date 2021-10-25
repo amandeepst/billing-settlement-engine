@@ -1,0 +1,1 @@
+ALTER TABLE bill_price MODIFY (bill_ln_dtl_id NULL, misc_bill_item_id NULL);

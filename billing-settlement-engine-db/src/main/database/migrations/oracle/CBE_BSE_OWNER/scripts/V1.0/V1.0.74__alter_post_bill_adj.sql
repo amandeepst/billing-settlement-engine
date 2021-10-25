@@ -1,0 +1,1 @@
+ALTER TABLE post_bill_adj ADD bill_dt DATE;

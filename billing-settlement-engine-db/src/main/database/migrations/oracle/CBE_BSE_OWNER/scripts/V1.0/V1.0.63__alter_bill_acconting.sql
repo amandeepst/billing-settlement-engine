@@ -1,0 +1,1 @@
+ALTER TABLE bill_accounting DROP COLUMN bill_ln_hash;

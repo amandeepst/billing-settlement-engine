@@ -1,0 +1,1 @@
+ALTER TABLE pending_min_charge ADD legal_counterparty VARCHAR2(12) NOT NULL;

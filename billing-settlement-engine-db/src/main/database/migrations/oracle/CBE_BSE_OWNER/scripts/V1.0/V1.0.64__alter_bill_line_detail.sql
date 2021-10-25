@@ -1,0 +1,1 @@
+ALTER TABLE bill_line_detail MODIFY bill_item_hash VARCHAR2(256);

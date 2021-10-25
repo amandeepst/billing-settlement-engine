@@ -1,0 +1,1 @@
+ALTER TABLE pending_bill ADD miscalculation_flag CHAR(1) DEFAULT 'N' NOT NULL;
