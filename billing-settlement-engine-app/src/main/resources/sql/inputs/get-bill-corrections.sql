@@ -1,0 +1,48 @@
+SELECT /*+ :hints */
+    c.bill_id                AS billId,
+    c.event_id               AS correctionEventId,
+    nvl(c.paid_invoice, 'N') AS paidInvoice,
+    c.type                   AS type,
+    c.reason_cd              AS reasonCd,
+    b.party_id               AS partyId,
+    b.bill_sub_acct_id       AS billSubAccountId,
+    b.tariff_type            AS tariffType,
+    b.template_type          AS templateType,
+    b.lcp                    AS legalCounterparty,
+    b.acct_type              AS accountType,
+    b.account_id             AS accountId,
+    b.business_unit          AS businessUnit,
+    b.bill_dt                AS billDate,
+    b.bill_cyc_id            AS billCycleId,
+    b.start_dt               AS startDate,
+    b.end_dt                 AS endDate,
+    b.currency_cd            AS currencyCode,
+    b.bill_amt               AS billAmount,
+    b.bill_ref               AS billReference,
+    b.status                 AS status,
+    b.adhoc_bill_flg         AS adhocBillFlag,
+    b.sett_sub_lvl_type      AS settlementSubLevelType,
+    b.sett_sub_lvl_val       AS settlementSubLevelValue,
+    b.granularity            AS granularity,
+    b.granularity_key_val    AS granularityKeyValue,
+    b.rel_waf_flg            AS releaseWafIndicator,
+    b.rel_reserve_flg        AS releaseReserveIndicator,
+    b.fastest_pay_route      AS fastestPaymentRouteIndicator,
+    b.case_id                AS caseId,
+    b.individual_bill        AS individualBillIndicator,
+    b.manual_narrative       AS manualNarrative,
+    b.settlement_region_id   AS processingGroup,
+    b.prev_bill_id           AS previousBillId,
+    b.debt_dt                AS debtDate,
+    b.debt_mig_type          AS debtMigrationType,
+    b.merch_tax_reg          AS merchantTaxRegistrationNumber,
+    b.wp_tax_reg             AS worldpayTaxRegistrationNumber,
+    b.tax_type               AS taxType,
+    b.tax_authority          AS taxAuthority,
+    nvl2(b.partition, b.partition, 1)  AS partitionId
+FROM bill b
+         RIGHT OUTER JOIN cm_inv_recalc_stg c
+                          ON b.bill_id = c.bill_id
+WHERE c.upload_dttm >= :low
+  AND c.upload_dttm < :high
+  AND UPPER(TRIM(c.type)) = 'CANCEL'

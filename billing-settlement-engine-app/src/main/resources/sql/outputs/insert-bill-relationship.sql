@@ -1,0 +1,31 @@
+INSERT /*+ :hints */ INTO bill_relationship (
+    parent_bill_id,
+    child_bill_id,
+    relationship_type,
+    event_id,
+    paid_invoice,
+    reuse_due_date,
+    type_cd,
+    reason_cd,
+    cre_dttm,
+    partition_id,
+    batch_code,
+    batch_attempt,
+    ilm_dt,
+    ilm_arch_sw
+) VALUES (
+             :parent_bill_id,
+             :child_bill_id,
+             :relationship_type,
+             :event_id,
+             :paid_invoice,
+             :reuse_due_date,
+             :type_cd,
+             :reason_cd,
+             SYSTIMESTAMP,
+             :partition_id,
+             :batch_code,
+             :batch_attempt,
+             :ilm_dt,
+             'Y'
+         )

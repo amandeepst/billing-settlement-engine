@@ -1,0 +1,252 @@
+COUNTRY_ID,CURRENCY_ID,NAME                           ,EU_GEOGRAPHIC_CODE,STATE_BASED_TAX,VALID_FROM,VALID_TO,EEA_FLG
+AND       ,EUR        ,Andorra                        ,NON-EU            ,               ,01/01/2014,        ,N
+ARE       ,AED        ,United Arab Emirates           ,NON-EC            ,               ,01/01/2014,        ,N
+AFG       ,AFN        ,Afghanistan                    ,NON-EC            ,               ,01/01/2014,        ,N
+ATG       ,XCD        ,Antigua and Barbuda            ,NON-EC            ,               ,01/01/2014,        ,N
+AIA       ,XCD        ,Anguilla                       ,NON-EC            ,               ,01/01/2014,        ,N
+ALB       ,ALL        ,Albania                        ,NON-EU            ,               ,01/01/2014,        ,N
+ARM       ,AMD        ,Armenia                        ,NON-EC            ,               ,01/01/2014,        ,N
+ANT       ,ANG        ,Netherlands Antilles           ,NON-EC            ,               ,01/01/2014,        ,N
+AGO       ,AOA        ,Angola                         ,NON-EC            ,               ,01/01/2014,        ,N
+ATA       ,XXX        ,Antarctica                     ,NON-EC            ,               ,01/01/2014,        ,N
+ARG       ,ARS        ,Argentina                      ,NON-EC            ,               ,01/01/2014,        ,N
+ASM       ,WST        ,American Samoa                 ,NON-EC            ,               ,01/01/2014,        ,N
+AUT       ,EUR        ,Austria                        ,INTRA-EU          ,               ,01/01/2014,        ,Y
+AUS       ,AUD        ,Australia                      ,NON-EC            ,               ,01/01/2014,        ,N
+ABW       ,AWG        ,Aruba                          ,NON-EC            ,               ,01/01/2014,        ,N
+ALA       ,EUR        ,Aland Islands (and Islands)    ,NON-EC            ,               ,01/01/2014,        ,N
+AZE       ,AZN        ,Azerbaijan                     ,NON-EC            ,               ,01/01/2014,        ,N
+BIH       ,BAM        ,Bosnia and Herzegovina         ,NON-EU            ,               ,01/01/2014,        ,N
+BRB       ,BBD        ,Barbados                       ,NON-EC            ,               ,01/01/2014,        ,N
+BGD       ,BDT        ,Bangladesh                     ,NON-EC            ,               ,01/01/2014,        ,N
+BEL       ,EUR        ,Belgium                        ,INTRA-EU          ,               ,01/01/2014,        ,Y
+BFA       ,XOF        ,Burkina Faso                   ,NON-EC            ,               ,01/01/2014,        ,N
+BGR       ,BGN        ,Bulgaria                       ,INTRA-EU          ,               ,01/01/2014,        ,Y
+BHR       ,BHD        ,Bahrain                        ,NON-EC            ,               ,01/01/2014,        ,N
+BDI       ,BIF        ,Burundi                        ,NON-EC            ,               ,01/01/2014,        ,N
+BEN       ,XOF        ,Benin                          ,NON-EC            ,               ,01/01/2014,        ,N
+BLM       ,EUR        ,Saint Barthelemy               ,NON-EC            ,               ,01/01/2014,        ,N
+BMU       ,BMD        ,Bermuda                        ,NON-EC            ,               ,01/01/2014,        ,N
+BRN       ,BND        ,Brunei Darussalam              ,NON-EC            ,               ,01/01/2014,        ,N
+BOL       ,BOB        ,"Bolivia, PS"                  ,NON-EC            ,               ,01/01/2014,        ,N
+BES       ,USD        ,"Bonaire, SES"                 ,NON-EC            ,               ,01/01/2014,        ,N
+BRA       ,BRL        ,Brazil                         ,NON-EC            ,               ,01/01/2014,        ,N
+BHS       ,BSD        ,Bahamas                        ,NON-EC            ,               ,01/01/2014,        ,N
+BTN       ,BTN        ,Bhutan                         ,NON-EC            ,               ,01/01/2014,        ,N
+BVT       ,NOK        ,Bouvet Island                  ,NON-EC            ,               ,01/01/2014,        ,N
+BWA       ,BWP        ,Botswana                       ,NON-EC            ,               ,01/01/2014,        ,N
+BLR       ,BYN        ,Belarus                        ,NON-EU            ,               ,01/01/2014,        ,N
+BLZ       ,BZD        ,Belize                         ,NON-EC            ,               ,01/01/2014,        ,N
+CAN       ,CAD        ,Canada                         ,NON-EC            ,               ,01/01/2014,        ,N
+CCK       ,AUD        ,Cocos (Keeling) Islands        ,NON-EC            ,               ,01/01/2014,        ,N
+COD       ,CDF        ,"Congo, DR"                    ,NON-EC            ,               ,01/01/2014,        ,N
+CAF       ,XAF        ,Central African Republic       ,NON-EC            ,               ,01/01/2014,        ,N
+COG       ,XAF        ,Congo                          ,NON-EC            ,               ,01/01/2014,        ,N
+CHE       ,CHF        ,Switzerland                    ,NON-EU            ,               ,01/01/2014,        ,N
+CIV       ,XOF        ,Cote d'Ivoire Cote d'Ivoire    ,NON-EC            ,               ,01/01/2014,        ,N
+COK       ,NZD        ,Cook Islands                   ,NON-EC            ,               ,01/01/2014,        ,N
+CHL       ,CLP        ,Chile                          ,NON-EC            ,               ,01/01/2014,        ,N
+CMR       ,XAF        ,Cameroon                       ,NON-EC            ,               ,01/01/2014,        ,N
+CHN       ,CNY        ,China                          ,NON-EC            ,               ,01/01/2014,        ,N
+COL       ,COP        ,Colombia                       ,NON-EC            ,               ,01/01/2014,        ,N
+CRI       ,CRC        ,Costa Rica                     ,NON-EC            ,               ,01/01/2014,        ,N
+CUB       ,CUC        ,Cuba                           ,NON-EC            ,               ,01/01/2014,        ,N
+CPV       ,CVE        ,Cape Verde                     ,NON-EC            ,               ,01/01/2014,        ,N
+CUW       ,ANG        ,Curacao Cura                   ,NON-EC            ,               ,01/01/2014,        ,N
+CXR       ,AUD        ,Christmas Island               ,NON-EC            ,               ,01/01/2014,        ,N
+CYP       ,EUR        ,Cyprus                         ,INTRA-EU          ,               ,01/01/2014,        ,Y
+CZE       ,CZK        ,Czech Republic                 ,INTRA-EU          ,               ,01/01/2014,        ,N
+DEU       ,EUR        ,Germany                        ,INTRA-EU          ,               ,01/01/2014,        ,Y
+DJI       ,DJF        ,Djibouti                       ,NON-EC            ,               ,01/01/2014,        ,N
+DMA       ,XCD        ,Dominica                       ,NON-EC            ,               ,01/01/2014,        ,N
+DNK       ,DKK        ,Denmark                        ,INTRA-EU          ,               ,01/01/2014,        ,Y
+DOM       ,DOP        ,Dominican Republic             ,NON-EC            ,               ,01/01/2014,        ,N
+DZA       ,DZD        ,Algeria                        ,NON-EC            ,               ,01/01/2014,        ,N
+ECU       ,USD        ,Ecuador                        ,NON-EC            ,               ,01/01/2014,        ,N
+EST       ,EUR        ,Estonia                        ,INTRA-EU          ,               ,01/01/2014,        ,Y
+EGY       ,EGP        ,Egypt                          ,NON-EC            ,               ,01/01/2014,        ,N
+ESH       ,MAD        ,Western Sahara                 ,NON-EC            ,               ,01/01/2014,        ,N
+ERI       ,ERN        ,Eritrea                        ,NON-EC            ,               ,01/01/2014,        ,N
+ESP       ,EUR        ,Spain                          ,INTRA-EU          ,               ,01/01/2014,        ,Y
+ETH       ,ETB        ,Ethiopia                       ,NON-EC            ,               ,01/01/2014,        ,N
+FIN       ,EUR        ,Finland                        ,INTRA-EU          ,               ,01/01/2014,        ,Y
+FJI       ,FJD        ,Fiji                           ,NON-EC            ,               ,01/01/2014,        ,N
+FLK       ,FKP        ,Falkland Islands (Malvinas)    ,NON-EC            ,               ,01/01/2014,        ,N
+FSM       ,USD        ,"Micronesia, FS"               ,NON-EC            ,               ,01/01/2014,        ,N
+FRO       ,DKK        ,Faroe Islands                  ,NON-EU            ,               ,01/01/2014,        ,N
+FRA       ,EUR        ,France                         ,INTRA-EU          ,               ,01/01/2014,        ,Y
+GAB       ,XAF        ,Gabon                          ,NON-EC            ,               ,01/01/2014,        ,N
+GBR       ,GBP        ,United Kingdom                 ,NON-EU            ,               ,01/01/2014,        ,Y
+GRD       ,XCD        ,Grenada                        ,NON-EC            ,               ,01/01/2014,        ,N
+GEO       ,GEL        ,Georgia                        ,NON-EU            ,               ,01/01/2014,        ,N
+GUF       ,EUR        ,French Guiana                  ,NON-EC            ,               ,01/01/2014,        ,N
+GGY       ,GBP        ,Guernsey                       ,NON-EU            ,               ,01/01/2014,        ,N
+GHA       ,GHS        ,Ghana                          ,NON-EC            ,               ,01/01/2014,        ,N
+GIB       ,GIP        ,Gibraltar                      ,NON-EU            ,               ,01/01/2014,        ,N
+GRL       ,DKK        ,Greenland                      ,NON-EC            ,               ,01/01/2014,        ,N
+GMB       ,GMD        ,Gambia                         ,NON-EC            ,               ,01/01/2014,        ,N
+GIN       ,GNF        ,Guinea                         ,NON-EC            ,               ,01/01/2014,        ,N
+GLP       ,EUR        ,Guadeloupe                     ,NON-EC            ,               ,01/01/2014,        ,N
+GNQ       ,XAF        ,Equatorial Guinea              ,NON-EC            ,               ,01/01/2014,        ,N
+GRC       ,EUR        ,Greece                         ,INTRA-EU          ,               ,01/01/2014,        ,Y
+SGS       ,GBP        ,"South Georgia, Sandwich Isles",NON-EC            ,               ,01/01/2014,        ,N
+GTM       ,GTQ        ,Guatemala                      ,NON-EC            ,               ,01/01/2014,        ,N
+GUM       ,USD        ,Guam                           ,NON-EC            ,               ,01/01/2014,        ,N
+GNB       ,XOF        ,Guinea-Bissau                  ,NON-EC            ,               ,01/01/2014,        ,N
+GUY       ,GYD        ,Guyana                         ,NON-EC            ,               ,01/01/2014,        ,N
+HKG       ,HKD        ,Hong Kong                      ,NON-EC            ,               ,01/01/2014,        ,N
+HMD       ,AUD        ,Heard and McDonald Islands     ,NON-EC            ,               ,01/01/2014,        ,N
+HND       ,HNL        ,Honduras                       ,NON-EC            ,               ,01/01/2014,        ,N
+HRV       ,HRK        ,Croatia                        ,INTRA-EU          ,               ,01/01/2014,        ,Y
+HTI       ,HTG        ,Haiti                          ,NON-EC            ,               ,01/01/2014,        ,N
+HUN       ,HUF        ,Hungary                        ,INTRA-EU          ,               ,01/01/2014,        ,Y
+IDN       ,IDR        ,Indonesia                      ,NON-EC            ,               ,01/01/2014,        ,N
+IRL       ,EUR        ,Ireland                        ,INTRA-EU          ,               ,01/01/2014,        ,Y
+ISR       ,ILS        ,Israel                         ,NON-EC            ,               ,01/01/2014,        ,N
+IMN       ,GBP        ,Isle of Man                    ,NON-EU            ,               ,01/01/2014,        ,N
+IND       ,INR        ,India                          ,NON-EC            ,               ,01/01/2014,        ,N
+IOT       ,USD        ,British Indian Ocean Territory ,NON-EC            ,               ,01/01/2014,        ,N
+IRQ       ,IQD        ,Iraq                           ,NON-EC            ,               ,01/01/2014,        ,N
+IRN       ,IRR        ,"Iran, Islamic Republic of"    ,NON-EC            ,               ,01/01/2014,        ,N
+ISL       ,ISK        ,Iceland                        ,NON-EU            ,               ,01/01/2014,        ,Y
+ITA       ,EUR        ,Italy                          ,INTRA-EU          ,               ,01/01/2014,        ,Y
+JEY       ,GBP        ,Jersey                         ,NON-EU            ,               ,01/01/2014,        ,N
+JAM       ,JMD        ,Jamaica                        ,NON-EC            ,               ,01/01/2014,        ,N
+JOR       ,JOD        ,Jordan                         ,NON-EC            ,               ,01/01/2014,        ,N
+JPN       ,JPY        ,Japan                          ,NON-EC            ,               ,01/01/2014,        ,N
+KEN       ,KES        ,Kenya                          ,NON-EC            ,               ,01/01/2014,        ,N
+KGZ       ,KGS        ,Kyrgyzstan                     ,NON-EC            ,               ,01/01/2014,        ,N
+KHM       ,KHR        ,Cambodia                       ,NON-EC            ,               ,01/01/2014,        ,N
+KIR       ,AUD        ,Kiribati                       ,NON-EC            ,               ,01/01/2014,        ,N
+COM       ,KMF        ,Comoros                        ,NON-EC            ,               ,01/01/2014,        ,N
+KNA       ,XCD        ,Saint Kitts and Nevis          ,NON-EC            ,               ,01/01/2014,        ,N
+PRK       ,KPW        ,"Korea, DPR"                   ,NON-EC            ,               ,01/01/2014,        ,N
+KOR       ,KRW        ,"Korea, Republic of"           ,NON-EC            ,               ,01/01/2014,        ,N
+KWT       ,KWD        ,Kuwait                         ,NON-EC            ,               ,01/01/2014,        ,N
+CYM       ,KYD        ,Cayman Islands                 ,NON-EC            ,               ,01/01/2014,        ,N
+KAZ       ,KZT        ,Kazakhstan                     ,NON-EC            ,               ,01/01/2014,        ,N
+LAO       ,LAK        ,"Lao People's, DR"             ,NON-EC            ,               ,01/01/2014,        ,N
+LBN       ,LBP        ,Lebanon                        ,NON-EC            ,               ,01/01/2014,        ,N
+LCA       ,XCD        ,Saint Lucia                    ,NON-EC            ,               ,01/01/2014,        ,N
+LIE       ,CHF        ,Liechtenstein                  ,NON-EU            ,               ,01/01/2014,        ,Y
+LKA       ,LKR        ,Sri Lanka                      ,NON-EC            ,               ,01/01/2014,        ,N
+LBR       ,LRD        ,Liberia                        ,NON-EC            ,               ,01/01/2014,        ,N
+LSO       ,LSL        ,Lesotho                        ,NON-EC            ,               ,01/01/2014,        ,N
+LTU       ,EUR        ,Lithuania                      ,INTRA-EU          ,               ,01/01/2014,        ,Y
+LUX       ,EUR        ,Luxembourg                     ,INTRA-EU          ,               ,01/01/2014,        ,Y
+LVA       ,EUR        ,Latvia                         ,INTRA-EU          ,               ,01/01/2014,        ,Y
+LBY       ,LYD        ,Libya                          ,NON-EC            ,               ,01/01/2014,        ,N
+MAR       ,MAD        ,Morocco                        ,NON-EC            ,               ,01/01/2014,        ,N
+MCO       ,EUR        ,Monaco                         ,NON-EU            ,               ,01/01/2014,        ,N
+MDA       ,MDL        ,"Moldova, Republic of"         ,NON-EU            ,               ,01/01/2014,        ,N
+MNE       ,EUR        ,Montenegro                     ,NON-EU            ,               ,01/01/2014,        ,N
+MAF       ,EUR        ,Saint Martin (French part)     ,NON-EC            ,               ,01/01/2014,        ,N
+MDG       ,MGA        ,Madagascar                     ,NON-EC            ,               ,01/01/2014,        ,N
+MHL       ,USD        ,Marshall Islands               ,NON-EC            ,               ,01/01/2014,        ,N
+MKD       ,MKD        ,North Macedonia                ,NON-EU            ,               ,01/01/2014,        ,N
+MLI       ,XOF        ,Mali                           ,NON-EC            ,               ,01/01/2014,        ,N
+MMR       ,MMK        ,Myanmar                        ,NON-EC            ,               ,01/01/2014,        ,N
+MNG       ,MNT        ,Mongolia                       ,NON-EC            ,               ,01/01/2014,        ,N
+MAC       ,MOP        ,Macao                          ,NON-EC            ,               ,01/01/2014,        ,N
+MNP       ,USD        ,Northern Mariana Islands       ,NON-EC            ,               ,01/01/2014,        ,N
+MTQ       ,EUR        ,Martinique                     ,NON-EC            ,               ,01/01/2014,        ,N
+MRT       ,MRU        ,Mauritania                     ,NON-EC            ,               ,01/01/2014,        ,N
+MSR       ,XCD        ,Montserrat                     ,NON-EC            ,               ,01/01/2014,        ,N
+MLT       ,EUR        ,Malta                          ,INTRA-EU          ,               ,01/01/2014,        ,Y
+MUS       ,MUR        ,Mauritius                      ,NON-EC            ,               ,01/01/2014,        ,N
+MDV       ,MVR        ,Maldives                       ,NON-EC            ,               ,01/01/2014,        ,N
+MWI       ,MWK        ,Malawi                         ,NON-EC            ,               ,01/01/2014,        ,N
+MEX       ,MXN        ,Mexico                         ,NON-EC            ,               ,01/01/2014,        ,N
+MYS       ,MYR        ,Malaysia                       ,NON-EC            ,               ,01/01/2014,        ,N
+MOZ       ,MZN        ,Mozambique                     ,NON-EC            ,               ,01/01/2014,        ,N
+NAM       ,NAD        ,Namibia                        ,NON-EC            ,               ,01/01/2014,        ,N
+NCL       ,XPF        ,New Caledonia                  ,NON-EC            ,               ,01/01/2014,        ,N
+NER       ,XOF        ,Niger                          ,NON-EC            ,               ,01/01/2014,        ,N
+NFK       ,AUD        ,Norfolk Island                 ,NON-EC            ,               ,01/01/2014,        ,N
+NGA       ,NGN        ,Nigeria                        ,NON-EC            ,               ,01/01/2014,        ,N
+NIC       ,NIO        ,Nicaragua                      ,NON-EC            ,               ,01/01/2014,        ,N
+NLD       ,EUR        ,Netherlands                    ,INTRA-EU          ,               ,01/01/2014,        ,Y
+NOR       ,NOK        ,Norway                         ,NON-EU            ,               ,01/01/2014,        ,Y
+NPL       ,NPR        ,Nepal                          ,NON-EC            ,               ,01/01/2014,        ,N
+NRU       ,AUD        ,Nauru                          ,NON-EC            ,               ,01/01/2014,        ,N
+NIU       ,NZD        ,Niue                           ,NON-EC            ,               ,01/01/2014,        ,N
+NZL       ,NZD        ,New Zealand                    ,NON-EC            ,               ,01/01/2014,        ,N
+OMN       ,OMR        ,Oman                           ,NON-EC            ,               ,01/01/2014,        ,N
+PAN       ,PAB        ,Panama                         ,NON-EC            ,               ,01/01/2014,        ,N
+PER       ,PEN        ,Peru                           ,NON-EC            ,               ,01/01/2014,        ,N
+PYF       ,XPF        ,French Polynesia               ,NON-EC            ,               ,01/01/2014,        ,N
+PNG       ,PGK        ,Papua New Guinea               ,NON-EC            ,               ,01/01/2014,        ,N
+PHL       ,PHP        ,Philippines                    ,NON-EC            ,               ,01/01/2014,        ,N
+PAK       ,PKR        ,Pakistan                       ,NON-EC            ,               ,01/01/2014,        ,N
+POL       ,PLN        ,Poland                         ,INTRA-EU          ,               ,01/01/2014,        ,Y
+SPM       ,EUR        ,Saint Pierre and Miquelon      ,NON-EC            ,               ,01/01/2014,        ,N
+PCN       ,NZD        ,Pitcairn                       ,NON-EC            ,               ,01/01/2014,        ,N
+PRI       ,USD        ,Puerto Rico                    ,NON-EC            ,               ,01/01/2014,        ,N
+PSE       ,ILS        ,"Palestinian Territory, Occ"   ,NON-EC            ,               ,01/01/2014,        ,N
+PRT       ,EUR        ,Portugal                       ,INTRA-EU          ,               ,01/01/2014,        ,Y
+PLW       ,USD        ,Palau                          ,NON-EC            ,               ,01/01/2014,        ,N
+PRY       ,PYG        ,Paraguay                       ,NON-EC            ,               ,01/01/2014,        ,N
+QAT       ,QAR        ,Qatar                          ,NON-EC            ,               ,01/01/2014,        ,N
+REU       ,EUR        ,Reunion                        ,NON-EC            ,               ,01/01/2014,        ,N
+ROU       ,RON        ,Romania                        ,INTRA-EU          ,               ,02/02/2002,        ,Y
+SRB       ,RSD        ,Serbia                         ,NON-EU            ,               ,01/01/2014,        ,N
+RUS       ,RUB        ,Russian Federation             ,NON-EU            ,               ,01/01/2014,        ,N
+RWA       ,RWF        ,Rwanda                         ,NON-EC            ,               ,01/01/2014,        ,N
+SAU       ,SAR        ,Saudi Arabia                   ,NON-EC            ,               ,01/01/2014,        ,N
+SLB       ,SBD        ,Solomon Islands                ,NON-EC            ,               ,01/01/2014,        ,N
+SYC       ,SCR        ,Seychelles                     ,NON-EC            ,               ,01/01/2014,        ,N
+SDN       ,SDG        ,Sudan                          ,NON-EC            ,               ,01/01/2014,        ,N
+SWE       ,SEK        ,Sweden                         ,NON-EU            ,               ,01/01/2014,        ,Y
+SGP       ,SGD        ,Singapore                      ,NON-EC            ,               ,01/01/2014,        ,N
+SHN       ,SHP        ,"Saint Helena, Ascension TdC"  ,NON-EC            ,               ,01/01/2014,        ,N
+SVN       ,EUR        ,Slovenia                       ,INTRA-EU          ,               ,01/01/2014,        ,Y
+SJM       ,NOK        ,Svalbard and Jan Mayen         ,NON-EC            ,               ,01/01/2014,        ,N
+SVK       ,EUR        ,Slovakia                       ,INTRA-EU          ,               ,01/01/2014,        ,Y
+SLE       ,SLL        ,Sierra Leone                   ,NON-EC            ,               ,01/01/2014,        ,N
+SMR       ,EUR        ,San Marino                     ,NON-EU            ,               ,01/01/2014,        ,N
+SEN       ,XOF        ,Senegal                        ,NON-EC            ,               ,01/01/2014,        ,N
+SOM       ,SOS        ,Somalia                        ,NON-EC            ,               ,01/01/2014,        ,N
+SUR       ,SRD        ,Suriname                       ,NON-EC            ,               ,01/01/2014,        ,N
+SSD       ,SSP        ,South Sudan                    ,NON-EC            ,               ,01/01/2014,        ,N
+STP       ,STN        ,Sao Tome and Principe          ,NON-EC            ,               ,01/01/2014,        ,N
+SLV       ,USD        ,El Salvador                    ,NON-EC            ,               ,01/01/2014,        ,N
+SXM       ,ANG        ,Sint Maarten (Dutch part)      ,NON-EC            ,               ,01/01/2014,        ,N
+SYR       ,SYP        ,Syrian Arab Republic           ,NON-EC            ,               ,01/01/2014,        ,N
+SWZ       ,SZL        ,Swaziland                      ,NON-EC            ,               ,01/01/2014,        ,N
+TCA       ,USD        ,Turks and Caicos Islands       ,NON-EC            ,               ,01/01/2014,        ,N
+TCD       ,XAF        ,Chad                           ,NON-EC            ,               ,01/01/2014,        ,N
+ATF       ,EUR        ,French Southern Territories    ,NON-EC            ,               ,01/01/2014,        ,N
+TGO       ,XOF        ,Togo                           ,NON-EC            ,               ,01/01/2014,        ,N
+THA       ,THB        ,Thailand                       ,NON-EC            ,               ,01/01/2014,        ,N
+TJK       ,TJS        ,Tajikistan                     ,NON-EC            ,               ,01/01/2014,        ,N
+TKL       ,NZD        ,Tokelau                        ,NON-EC            ,               ,01/01/2014,        ,N
+TLS       ,USD        ,Timor-Leste                    ,NON-EC            ,               ,01/01/2014,        ,N
+TKM       ,TMT        ,Turkmenistan                   ,NON-EC            ,               ,01/01/2014,        ,N
+TUN       ,TND        ,Tunisia                        ,NON-EC            ,               ,01/01/2014,        ,N
+TON       ,TOP        ,Tonga                          ,NON-EC            ,               ,01/01/2014,        ,N
+TUR       ,TRY        ,Turkey                         ,NON-EU            ,               ,01/01/2014,        ,N
+TTO       ,TTD        ,Trinidad and Tobago            ,NON-EC            ,               ,01/01/2014,        ,N
+TUV       ,AUD        ,Tuvalu                         ,NON-EC            ,               ,01/01/2014,        ,N
+TWN       ,TWD        ,"Taiwan, Province of China"    ,NON-EC            ,               ,01/01/2014,        ,N
+TZA       ,TZS        ,"Tanzania, United Republic of" ,NON-EC            ,               ,01/01/2014,        ,N
+UKR       ,UAH        ,Ukraine                        ,NON-EU            ,               ,01/01/2014,        ,N
+UGA       ,UGX        ,Uganda                         ,NON-EC            ,               ,01/01/2014,        ,N
+UMI       ,USD        ,United States MO Islands       ,NON-EC            ,               ,01/01/2014,        ,N
+USA       ,USD        ,United States                  ,NON-EC            ,               ,01/01/2014,        ,N
+URY       ,UYU        ,Uruguay                        ,NON-EC            ,               ,01/01/2014,        ,N
+UZB       ,UZS        ,Uzbekistan                     ,NON-EC            ,               ,01/01/2014,        ,N
+VAT       ,EUR        ,Holy See (Vatican City State)  ,                  ,               ,01/01/2014,        ,N
+VCT       ,XCD        ,Saint Vincent and Grenadines   ,NON-EC            ,               ,01/01/2014,        ,N
+VEN       ,VES        ,"Venezuela, BR"                ,NON-EC            ,               ,01/01/2014,        ,N
+VGB       ,USD        ,"Virgin Islands, British"      ,NON-EC            ,               ,01/01/2014,        ,N
+VIR       ,USD        ,"Virgin Islands, U.S."         ,NON-EC            ,               ,01/01/2014,        ,N
+VNM       ,VND        ,Vietnam                        ,NON-EC            ,               ,01/01/2014,        ,N
+VUT       ,VUV        ,Vanuatu                        ,NON-EC            ,               ,01/01/2014,        ,N
+WLF       ,XPF        ,Wallis and Futuna              ,NON-EC            ,               ,01/01/2014,        ,N
+WSM       ,WST        ,Samoa                          ,NON-EC            ,               ,01/01/2014,        ,N
+XKX       ,EUR        ,Kosovo                         ,NON-EU            ,               ,01/01/2014,        ,N
+YEM       ,YER        ,Yemen                          ,NON-EC            ,               ,01/01/2014,        ,N
+MYT       ,EUR        ,Mayotte                        ,NON-EC            ,               ,01/01/2014,        ,N
+ZAF       ,ZAR        ,South Africa                   ,NON-EC            ,               ,01/01/2014,        ,N
+ZMB       ,ZMW        ,Zambia                         ,NON-EC            ,               ,01/01/2014,        ,N
+ZWE       ,BWP        ,Zimbabwe                       ,NON-EC            ,               ,01/01/2014,        ,N
