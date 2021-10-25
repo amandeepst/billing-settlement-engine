@@ -1,0 +1,1 @@
+ALTER TABLE pending_bill_line_svc_qty MODIFY cre_dttm TIMESTAMP;

@@ -1,0 +1,1 @@
+ALTER TABLE bill MODIFY bill_ref VARCHAR2(256);

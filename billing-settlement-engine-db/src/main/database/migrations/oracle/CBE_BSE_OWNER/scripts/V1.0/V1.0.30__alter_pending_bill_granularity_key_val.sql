@@ -1,0 +1,1 @@
+ALTER TABLE pending_bill MODIFY granularity_key_val NULL;

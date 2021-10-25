@@ -1,0 +1,1 @@
+ALTER TABLE bill_tax_detail ADD rev_chg_flg CHAR(1);

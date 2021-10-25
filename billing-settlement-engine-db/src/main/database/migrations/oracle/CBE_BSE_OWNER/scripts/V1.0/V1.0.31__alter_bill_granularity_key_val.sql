@@ -1,0 +1,1 @@
+ALTER TABLE bill MODIFY granularity_key_val NULL;
