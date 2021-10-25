@@ -1,0 +1,26 @@
+CREATE OR REPLACE VIEW vw_billable_item
+AS
+SELECT  billable_item_id,
+        sub_account_id,
+        legal_counterparty,
+        start_dt as accrued_date,
+        priceitem_cd,
+        price_asgn_id,
+        settlement_level_type,
+        settlement_granularity,
+        billing_currency,
+        currency_from_scheme,
+        funding_currency,
+        price_currency,
+        txn_currency,
+        merchant_amount_signage,
+        sett_level_granularity,
+        product_class,
+        child_product,
+        parent_acct_id,
+        merchant_code,
+        cre_dttm,
+        ilm_dt,
+        aggregation_hash,
+        partition as partition_id
+FROM billable_charge;

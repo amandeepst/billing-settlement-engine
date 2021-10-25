@@ -1,0 +1,1 @@
+ALTER TABLE billable_charge ADD merchant_code VARCHAR2(60);

@@ -1,0 +1,1 @@
+ALTER TABLE billable_charge ADD product_class VARCHAR2(16);
