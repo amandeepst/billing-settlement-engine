@@ -1,0 +1,1 @@
+DELETE FROM outputs_registry WHERE batch_code = :batch_code

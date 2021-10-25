@@ -1,0 +1,4 @@
+PARTY_ID    ,LEGAL_COUNTERPARTY,CURRENCY,ACCOUNT_TYPE,ACCOUNT_BALANCE,SUB_ACCOUNT_TYPE,SUB_ACCOUNT_BALANCE,CRE_DTTM           ,BATCH_CODE,BATCH_ATTEMPT,PARTITION_ID,ILM_DT             ,ILM_ARCH_SW
+PO4004921989,00001             ,GBP     ,FUND        ,-13110         ,FUND            ,0                  ,2021-10-01 00:00:03,batch-test,1            ,1           ,2021-10-01 00:00:01,Y
+PO4004921989,00001             ,GBP     ,FUND        ,-13110         ,WAF             ,-13110             ,2021-10-01 00:00:03,batch-test,1            ,1           ,2021-10-01 00:00:01,Y
+PO4008216618,00001             ,GBP     ,FUND        ,-2000          ,WAF             ,-2000              ,2021-10-01 00:00:03,batch-test,1            ,1           ,2021-10-01 00:00:01,Y
