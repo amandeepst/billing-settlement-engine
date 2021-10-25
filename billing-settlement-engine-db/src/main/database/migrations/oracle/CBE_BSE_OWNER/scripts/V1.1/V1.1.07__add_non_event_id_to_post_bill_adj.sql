@@ -1,0 +1,1 @@
+ALTER TABLE post_bill_adj ADD non_event_id NUMBER(22, 0);

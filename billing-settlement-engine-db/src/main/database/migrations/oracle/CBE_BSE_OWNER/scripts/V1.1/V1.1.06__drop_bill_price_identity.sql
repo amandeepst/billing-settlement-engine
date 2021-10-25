@@ -1,0 +1,1 @@
+ALTER TABLE cbe_bse_owner.bill_price MODIFY non_event_id DROP IDENTITY;
