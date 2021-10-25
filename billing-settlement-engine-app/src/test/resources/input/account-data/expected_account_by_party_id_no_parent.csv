@@ -1,0 +1,2 @@
+accountId,childPartyId,accountType,subAccountId,subAccountType,partyId,legalCounterparty,currency,businessUnit, processingGroup,code
+ac7,,CHRG,sa7,CHRG,P0008,P0001,GBP,BU0001,ROW,WPMO

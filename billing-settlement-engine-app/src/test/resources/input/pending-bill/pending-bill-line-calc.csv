@@ -1,0 +1,9 @@
+BILL_LINE_CALC_ID  ,BILL_LN_ID  ,BILL_ID  ,CALC_LN_CLASS  ,CALC_LN_TYPE  ,AMOUNT,INCLUDE_ON_BILL,RATE_TYPE  ,RATE_VAL,CRE_DTTM  ,BATCH_CODE,BATCH_ATTEMPT,PARTITION_ID,ILM_DT             ,ILM_ARCH_SW
+bill_line_calc_id_1,bill_ln_id_1,bill_id_1,calc_ln_class_4,calc_ln_type_1,1     ,Y              ,rate_type_1,1       ,2020-10-01,test      ,1            ,0           ,2020-10-01 00:00:00,Y
+bill_line_calc_id_2,bill_ln_id_1,bill_id_1,calc_ln_class_5,calc_ln_type_1,2     ,Y              ,rate_type_2,2       ,2020-10-01,test      ,1            ,255         ,2020-10-01 00:00:00,Y
+bill_line_calc_id_3,bill_ln_id_1,bill_id_1,calc_ln_class_6,calc_ln_type_1,3     ,Y              ,rate_type_3,3       ,2020-10-01,test      ,1            ,255         ,2020-10-01 00:00:00,Y
+bill_line_calc_id_4,bill_ln_id_2,bill_id_1,calc_ln_class_1,calc_ln_type_1,1     ,Y              ,rate_type_1,4       ,2020-10-01,test      ,1            ,0           ,2020-10-01 00:00:00,Y
+bill_line_calc_id_5,bill_ln_id_2,bill_id_1,calc_ln_class_3,calc_ln_type_1,2     ,Y              ,rate_type_2,5       ,2020-10-01,test      ,1            ,0           ,2020-10-01 00:00:00,Y
+bill_line_calc_id_6,bill_ln_id_3,bill_id_1,calc_ln_class_2,calc_ln_type_1,1     ,Y              ,rate_type_1,6       ,2020-10-01,test      ,1            ,255         ,2020-10-01 00:00:00,Y
+bill_line_calc_id_7,bill_ln_id_4,bill_id_2,calc_ln_class_2,calc_ln_type_1,1     ,Y              ,rate_type_1,7       ,2020-10-01,test      ,1            ,0           ,2020-10-01 00:00:00,Y
+bill_line_calc_id_8,bill_ln_id_5,bill_id_3,calc_ln_class_2,calc_ln_type_1,1     ,Y              ,rate_type_2,8       ,2020-09-20,testDate  ,1            ,0           ,2020-09-20 00:00:00,Y

@@ -1,0 +1,2 @@
+bill_party_id ,legal_counterparty ,logical_date    ,cre_dttm   ,batch_code    ,batch_attempt ,ilm_dt     ,ilm_arch_sw ,partition_id,currency
+PO4000018155  ,PO1100000001       ,2021-04-27 ,2021-04-28 ,minChargeTest ,1             ,2021-04-28 ,Y           ,1,GBP

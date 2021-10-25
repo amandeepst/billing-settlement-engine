@@ -1,0 +1,6 @@
+BILL_LN_ID  ,BILL_ID  ,BILL_LINE_PARTY_ID,PRODUCT_CLASS,PRODUCT_ID,PRICE_CCY,FUND_CCY,FUND_AMT,TXN_CCY,TXN_AMT,QTY,PRICE_LN_ID,MERCHANT_CODE,CRE_DTTM  ,BATCH_CODE,BATCH_ATTEMPT,PARTITION_ID,ILM_DT             ,ILM_ARCH_SW
+bill_ln_id_1,bill_id_1,PO4007445930      ,             ,prod_id_1 ,         ,        ,100     ,EUR    ,1      ,3  ,           ,code_1       ,2020-10-01,test      ,1            ,0           ,2020-10-01 00:00:00,Y
+bill_ln_id_2,bill_id_1,PO4007445930      ,             ,prod_id_1 ,         ,        ,100     ,EUR    ,1      ,5  ,           ,code_1       ,2020-10-01,test      ,1            ,127         ,2020-10-01 00:00:00,Y
+bill_ln_id_3,bill_id_1,PO4007445930      ,             ,prod_id_2 ,         ,        ,100     ,EUR    ,1      ,7  ,           ,code_2       ,2020-10-01,test      ,1            ,0           ,2020-10-01 00:00:00,Y
+bill_ln_id_4,bill_id_2,PO4007445930      ,             ,prod_id_2 ,         ,        ,100     ,EUR    ,1      ,7  ,           ,code_2       ,2020-10-01,test      ,1            ,127         ,2020-10-01 00:00:00,Y
+bill_ln_id_5,bill_id_3,PO4007445930      ,             ,prod_id_2 ,         ,        ,100     ,EUR    ,1      ,7  ,           ,code_2       ,2020-09-20,testDate  ,1            ,0           ,2020-09-20 00:00:00,Y

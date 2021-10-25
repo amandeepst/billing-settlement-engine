@@ -1,0 +1,5 @@
+"BILL_ITEM_ID"                   ,FIRST_FAILURE_ON,RETRY_COUNT,CODE           ,STATUS,REASON ,STACK_TRACE           ,CRE_DTTM  ,BATCH_CODE         ,BATCH_ATTEMPT,PARTITION_ID,ILM_DT    ,ILM_ARCH_SW,BILLABLE_ITEM_ILM_DT
+"abcdfbfc-test-1234-2222-billing",2020-09-16      ,29         ,EMPTY_SOMETHING,EROR  ,BECAUSE,java.lang.becauseerror,2020-12-31,std_bill_item_test ,1            ,1           ,2020-12-31,Y          ,2020-09-16
+"abcdfbfc-test-1234-2221-billing",2020-09-16      ,31         ,EMPTY_SOMETHING,EROR  ,BECAUSE,java.lang.becauseerror,2020-12-31,std_bill_item_test ,1            ,1           ,2020-12-31,Y          ,2020-09-15
+"Uv0A#giju;05"                   ,2020-11-09      ,29         ,BAD_SOMETHING  ,EROR  ,BECAUSE,java.lang.becauseerror,2020-12-01,misc_bill_item_test,1            ,1           ,2020-12-01,Y          ,2020-11-09
+"Uv0A#giju;04"                   ,2020-11-09      ,31         ,BAD_SOMETHING  ,EROR  ,BECAUSE,java.lang.becauseerror,2020-12-01,misc_bill_item_test,1            ,1           ,2020-12-01,Y          ,2020-11-08

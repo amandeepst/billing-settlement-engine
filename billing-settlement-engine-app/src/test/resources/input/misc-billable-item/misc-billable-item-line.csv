@@ -1,0 +1,4 @@
+"BILL_ITEM_LINE_ID"         ,"BILL_ITEM_ID","LINE_CALC_TYPE","AMOUNT","CRE_DTTM","BATCH_CODE"    ,"BATCH_ATTEMPT","PARTITION_ID","ILM_DT"  ,"ILM_ARCH_SW","BILLABLE_ITEM_ID"                    ,"PRICE","CURRENCY_CD"
+"qumts8f81qgpili5o53evdhkl9","Uv0A#giju;05","PI_MBA"        ,100     ,2020-11-09,"d7Q6KXPSwJ0JnN",1              ,24            ,2020-11-09,"Y"          ,"abbc792b-df16-41ba-8930-930e86b9367b",100    ,"GBP"
+"qumts8f81qgpili5o53evdhkl8","Uv0A#giju;04","PI_MBA"        ,100     ,2020-11-08,"d7Q6KXPSwJ0JnN",1              ,24            ,2020-11-08,"Y"          ,"abbc792b-df16-41ba-8930-930e86b9367b",100    ,"GBP"
+"r4rbgvvj3i8gqh2clpd16riuj8","U<+8_gTK%K2n","PI_MBA"        ,80      ,2020-11-09,"d7Q6KXPSwJ0JnN",1              ,16            ,2020-11-09,"Y"          ,"1aeba2c8-fce7-4cd8-a1f5-ab0f767a61bf",80     ,"GBP"

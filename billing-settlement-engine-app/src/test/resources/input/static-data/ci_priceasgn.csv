@@ -1,0 +1,4 @@
+"PRICE_ASGN_ID","OWNER_ID","PA_OWNER_TYPE_FLG","START_DT","END_DT","PRICEITEM_CD","TOU_CD","PRICE_CURRENCY_CD","PRICE_STATUS_FLAG","RS_CD","BUS_OBJ_CD","VERSION","BO_DATA_AREA","PA_TYPE_FLAG","PRINT_IF_ZERO_SW","PA_USAGE_FLG","IGNORE_SW","DO_NOT_AGG_SW","SCHEDULE_CD","TXN_RATING_CRITERIA","ADV_PRC_SW","ELIGIBILITY_SW"
+"1595655016","1590636621","PRTY",2017-12-19,,"MINCHRGP                      ","        ","GBP","ACTV","CHRGMPC ","C1_PRICEASGN_BO               ",1,"""""","POST","Y","""""","N","N","DAILY       ","AGTR","N","N"
+"1595655017","1590636621","PRTY",2017-12-19,2020-01-31,"MINCHRGP                      ","        ","GBP","ACTV","CHRGMPC ","C1_PRICEASGN_BO               ",1,"""""","POST","Y","""""","N","N","DAILY       ","AGTR","N","N"
+"1595655018","1590636621","PRTY",2017-12-19,,"MINCHRGP                      ","        ","GBP","ACTV","CHRGMPC ","C1_PRICEASGN_BO               ",1,"""""","POST","Y","""""","N","N","DAILY       ","AGTR","N","N"

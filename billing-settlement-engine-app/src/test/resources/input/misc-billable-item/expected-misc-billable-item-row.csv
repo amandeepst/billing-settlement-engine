@@ -1,0 +1,3 @@
+subAccountId,legalCounterparty,accruedDate,adhocBillFlag,billingCurrency,productClass ,productId
+6636635059  ,PO1100000001     ,2020-10-07 ,Y            ,GBP            ,MISCELLANEOUS,ACOMP
+6656651476  ,PO1100000001     ,2020-10-07 ,N            ,GBP            ,MISCELLANEOUS,AFUND

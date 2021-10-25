@@ -1,0 +1,3 @@
+BATCH_CODE    ,BATCH_ATTEMPT ,ILM_DT     ,DATASET_ID ,LOGICAL_DATE ,VISIBLE
+minChargeTest ,1             ,2021-03-16 ,MIN_CHARGE ,2021-03-16   ,Y
+minChargeTest ,1             ,2021-03-16 ,BILL ,2021-03-16   ,Y

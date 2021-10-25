@@ -1,0 +1,14 @@
+BILLABLE_ITEM_ID,BILLABLE_CHARGE_ID,LINE_SEQUENCE,CHARGE_AMOUNT,CURRENCY_CD,DISTRIBUTION_ID,PRECISE_CHARGE_AMOUNT,BATCH_CODE,BATCH_ATTEMPT,PARTITION_ID,ILM_DT,ILM_ARCH_SW,DESCRIPTION_ON_BILL,CHARACTERISTIC_VALUE,RATE,RATE_TYPE
+2311fbfc-test-4356-a010-billing,billingTest,1,63.94,CHF,SETT-CTL,63.939277,BT_01,1,1,2020-09-16,Y,Funding Amount at Merchant Rate,FND_AMTM,2.23,MSC_PI
+2311fbfc-test-4356-a010-billing,billingTest,2,2.37,CHF,FND-FX-INC,2.370402,BT_01,1,1,2020-09-16,Y,Funding FX Income,,0,NA
+2311fbfc-test-4356-a010-billing,billingTest,3,-2.37,CHF,FND-FX-RES,-2.370402,BT_01,1,1,2020-09-16,Y,Funding FX Income Restatement,,0,NA
+abcdfbfc-test-1234-2222-billing,m80RRfGQuQ0l,1,0,GBP,BASE_CHG,0,BT_01,1,95,2020-09-16,Y,% Charge Merchant Billing Amount,PC_MBA,0.33,MSC_PC
+abcdfbfc-test-1234-2222-billing,m80RRfGQuQ0l,2,0,GBP,BASE_CHG,0,BT_01,1,95,2020-09-16,Y,PI Charge Merchant Billing Amount,PI_MBA,1,MSC_PI
+abcdfbfc-test-1234-2222-billing,m80RRfGQuQ0l,1,0,GBP,BASE_CHG,0,BT_01,1,95,2020-09-16,Y,% Charge Merchant Billing Amount,CS_BM2,0.1,MSC_PC
+abcdfbfc-test-1234-2222-billing,m80RRfGQuQ0l,2,0,GBP,BASE_CHG,0,BT_01,1,95,2020-09-16,Y,PI Charge Merchant Billing Amount,CS_BM1,4,MSC_PI
+abcdfbfc-test-1234-2221-billing,m70RRfGQuQ0l,2,0,GBP,BASE_CHG,0,BT_01,1,95,2020-09-15,Y,PI Charge Merchant Billing Amount,CS_BM1,4,MSC_PI
+billable-item-line-test-billing,rateTypeTest,1,12.24,GBP,CHG-FX-INC,12.24422,BT_01,1,12,2020-09-17,Y,Charging FX Income,CSFXINC1,1.123,MSC_PC
+billable-item-line-test-billing,rateTypeTest,2,2.12,GBP,CHG-FX-INC,2.1189,BT_01,1,12,2020-09-17,Y,Charging FX Income,CSFXINC2,1.123,NA
+billable-item-line-test-billing,rateTypeTest,3,14.36,GBP,CHG-FX-RES,14.36522,BT_01,1,12,2020-09-17,Y,Charging FX Income Restatement,CSFXINC1,1.123,MSC_PC
+billable-item-line-test-billing,rateTypeTest,5,2.12,GBP,FND-FX-INC,2.1189,BT_01,1,12,2020-09-17,Y,Funding FX Income,CSFXINC2,1.123,NA
+billable-item-line-test-billing,rateTypeTest,6,14.36,GBP,FND-FX-RES,14.36522,BT_01,1,12,2020-09-17,Y,Funding FX Income Restatement,CSFXINC1,1.123,MSC_PC

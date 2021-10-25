@@ -1,0 +1,3 @@
+calculationLineClassification,amount,calculationLineType,rateType,rateValue
+BASE_CHG      ,100                ,PI_MBA             ,M_PI    ,100
+BASE_CHG      ,80                 ,PI_MBA             ,M_PI    ,80

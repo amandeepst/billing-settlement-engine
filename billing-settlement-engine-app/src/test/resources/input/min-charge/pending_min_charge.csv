@@ -1,0 +1,5 @@
+bill_party_id ,legal_counterparty ,txn_party_id ,min_chg_start_dt ,min_chg_end_dt ,min_chg_type ,applicable_charges ,bill_dt    ,cre_dttm   ,batch_code    ,batch_attempt ,ilm_dt     ,ilm_arch_sw ,partition_id,currency
+billPartyId1  ,PO1000100001       ,txnPartyId1  ,2021-03-01       ,2021-03-31     ,WPMO         ,10                 ,2021-03-31 ,2021-03-16 ,minChargeTest ,1             ,2021-03-16 ,Y           ,1,GBP
+billPartyId1  ,PO1000100001       ,txnPartyId2  ,2021-03-01       ,2021-03-31     ,WPMO         ,5                  ,2021-03-31 ,2021-03-16 ,minChargeTest ,1             ,2021-03-16 ,Y           ,1,GBP
+billPartyId2  ,PO1000100002       ,txnPartyId1  ,2021-03-01       ,2021-03-31     ,WPMO         ,15                 ,2021-03-31 ,2021-03-16 ,minChargeTest ,1             ,2021-03-16 ,Y           ,1,GBP
+billPartyId3  ,PO1000100005       ,txnPartyId1  ,2021-03-01       ,2021-03-31     ,WPMO         ,20                 ,2021-03-31 ,2021-03-16 ,minChargeTest ,1             ,2021-03-16 ,Y           ,1,GBP
