@@ -1,0 +1,17 @@
+DROP TABLE CM_MISC_BILL_ITEM_LN;
+CREATE TABLE CM_MISC_BILL_ITEM_LN (
+    "BILL_ITEM_LINE_ID"   VARCHAR2(36 BYTE)         NOT NULL ENABLE,
+    "BILL_ITEM_ID"        CHAR(12 BYTE)             NOT NULL ENABLE,
+    "LINE_CALC_TYPE"      VARCHAR2(8 BYTE)          NOT NULL ENABLE,
+    "AMOUNT"              NUMBER(36, 18)            NOT NULL ENABLE,
+    "CRE_DTTM"            TIMESTAMP                 NOT NULL ENABLE,
+    "BATCH_CODE"          VARCHAR2(128 BYTE)        NOT NULL ENABLE,
+    "BATCH_ATTEMPT"       NUMBER(3, 0)              NOT NULL ENABLE,
+    "PARTITION_ID"        NUMBER(*, 0)              NOT NULL ENABLE,
+    "ILM_DT"              TIMESTAMP                 NOT NULL ENABLE,
+    "ILM_ARCH_SW"         CHAR(1 BYTE)              NOT NULL ENABLE,
+    "BILLABLE_ITEM_ID"    VARCHAR2(36 BYTE)         NOT NULL ENABLE,
+    "PRICE"               NUMBER(36, 18)            NOT NULL ENABLE,
+    "CURRENCY_CD"         CHAR(3 BYTE)              NOT NULL ENABLE,
+    CONSTRAINT "MISC_BILL_ITEM_LN_PK" PRIMARY KEY ( "BILL_ITEM_LINE_ID" )
+);
